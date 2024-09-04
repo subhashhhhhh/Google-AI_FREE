@@ -111,12 +111,3 @@ Please ensure that your code adheres to the existing code style and includes app
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Key Sections Covered:
-- **Features**: Summarizes what the extension does.
-- **Installation**: Step-by-step instructions for installing the extension on Chrome and Firefox.
-- **Development**: Details on the project structure and how to build the extension.
-- **Usage**: Explains how users can enable/disable the extension.
-- **Contributing**: Instructions for contributing to the project.
-- **License**: Specifies the licensing for the project.
