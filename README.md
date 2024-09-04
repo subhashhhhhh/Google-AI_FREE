@@ -1,6 +1,3 @@
-Here’s a detailed and professional `README.md` for your "AI Free" extension repository:
-
-```markdown
 # AI Free
 
 **AI Free** is a browser extension designed to automatically append the query parameter `?udm=14` to every Google search URL. This extension is available for both Google Chrome and Mozilla Firefox, offering a seamless and consistent experience across platforms.
