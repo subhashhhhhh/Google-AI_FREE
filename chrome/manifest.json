@@ -19,8 +19,8 @@
     "action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "48": "icons/icon48.png",
-        "128": "icons/icon128.png"
+        "48": "../common/icons/icon48.png",
+        "128": "../common/icons/icon128.png"
       },
       "default_title": "AI Free"
     }

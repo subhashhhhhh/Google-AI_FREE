@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   
     function updateIcon(enabled) {
-      const iconPath = enabled ? 'icons/icon' : 'icons/icon-grey';
-      chrome.action.setIcon({
+      const iconPath = enabled ? '../common/icons/icon' : '../common/icons/icon-grey';
+      browserAPI.action.setIcon({
         path: {
           "48": `${iconPath}48.png`,
           "128": `${iconPath}128.png`
