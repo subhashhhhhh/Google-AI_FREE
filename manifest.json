@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "AI FREE",
+    "description": "Removes AI Crap from Google",
+    "version": "1.0",
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "declarativeNetRequest",
+      "activeTab",
+      "storage"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "host_permissions": [
+      "*://www.google.com/*"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+      },
+      "default_title": "AI Free"
+    }
+  }
+  
