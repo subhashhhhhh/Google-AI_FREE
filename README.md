@@ -110,4 +110,4 @@ Please ensure that your code adheres to the existing code style and includes app
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GPL License - see the [LICENSE](LICENSE) file for details.
